@@ -1,0 +1,21 @@
+[2m2024-11-25T12:35:46.856753Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m duplicate field `window_rules`
+[2m2024-11-25T12:37:10.843433Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected key at line 135 column 2, while parsing a block mapping
+[2m2024-11-25T12:39:12.346057Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected key at line 135 column 2, while parsing a block mapping
+[2m2024-11-25T12:39:31.580967Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m duplicate field `window_rules`
+[2m2024-11-25T12:39:47.651107Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[50]: missing field `bindings` at line 308 column 5
+[2m2024-11-25T12:40:03.297249Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[50]: missing field `bindings` at line 308 column 5
+[2m2025-01-15T12:35:25.089717Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-01-17T12:44:29.532670Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute 'undefined'.\n\nError: A operação foi cancelada pelo usuário. (0x800704C7)"
+[2m2025-01-17T12:44:35.012850Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute '<YOUR-POWERSHELL-PATH>'.\n\nError: A operação foi cancelada pelo usuário. (0x800704C7)"
+[2m2025-01-28T22:08:55.672634Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m O identificador da janela é inválido. (0x80070578)
+[2m2025-01-28T22:09:46.018218Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m O identificador da janela é inválido. (0x80070578)
+[2m2025-02-08T16:32:11.380664Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m O identificador da janela é inválido. (0x80070578)
+[2m2025-02-08T16:32:13.919603Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m O identificador da janela é inválido. (0x80070578)
+[2m2025-02-09T03:34:24.915906Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m O identificador da janela é inválido. (0x80070578)
+[2m2025-02-09T03:34:26.663107Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m O identificador da janela é inválido. (0x80070578)
+[2m2025-02-20T00:20:57.287574Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m O identificador da janela é inválido. (0x80070578)
+[2m2025-02-20T00:20:59.796386Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m O identificador da janela é inválido. (0x80070578)
+[2m2025-02-26T21:18:00.894015Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m O identificador da janela é inválido. (0x80070578)
+[2m2025-02-26T21:18:03.281031Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m O identificador da janela é inválido. (0x80070578)
+[2m2025-07-19T14:57:39.968793Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-07-20T12:54:21.305680Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
